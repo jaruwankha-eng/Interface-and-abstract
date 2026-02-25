@@ -15,7 +15,7 @@ namespace Interface_and_abstract
         {
             static void Main(string[] args)
             {
-                // เปลี่ยนจาก TrainingRegistrationSystem เป็น TrainingSystem
+                
                 TrainingSystem system = new TrainingSystem();
                 int choice;
 
